@@ -36,5 +36,5 @@ A Rubik’s Cube timer and scramble app with an automatic solve history tracker 
 **Sprint 3**: Solve history and data model  
 **Sprint 4**: Persistent storage and UI improvements
 
-## Demo
-![App Demo](images/demo.gif)
+## Demo Video
+[![Watch the video](https://img.youtube.com/vi/m91bDgS85WI/hqdefault.jpg)](https://www.youtube.com/watch?v=m91bDgS85WI)
