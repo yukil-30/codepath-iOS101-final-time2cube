@@ -34,14 +34,14 @@ Beginners can learn visually with guided instructions, and advanced solvers can 
 
 **Required Must-have Stories**
 
-* [ ] User can generate a new scramble sequence
-* [ ] User can view a timer to start and stop their solve
-* [ ] After stopping the timer, the solve is automatically saved to history
-* [ ] Solve history includes scramble and solve time
-* [ ] User can view a list of past solves
-* [ ] User can delete a solve from the history
-* [ ] User can navigate between two tabs: Timer and History
-* [ ] User can see a visual layout of the Rubik's Cube (all 6 sides) after the scramble is generated
+* User can generate a new scramble sequence
+* User can view a timer to start and stop their solve
+* After stopping the timer, the solve is automatically saved to history
+* Solve history includes scramble and solve time
+* User can view a list of past solves
+* User can delete a solve from the history
+* User can navigate between two tabs: Timer and History
+* User can see a visual layout of the Rubik's Cube (all 6 sides) after the scramble is generated
 
 **Optional Nice-to-have Stories**
 
